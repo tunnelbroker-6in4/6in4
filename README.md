@@ -37,7 +37,7 @@
 | `✅ Done` | Идея реализована и доступна в 6in4.ru. |
 | `❌ Declined` | Идея отклонена (с пояснением почему). |
 
-👉 **[Посмотреть текущую доску (Projects)](https://github.com/tunnelbroker-6in4/6in4/projects/1)**
+👉 **[Посмотреть текущую доску (Projects)](https://github.com/tunnelbroker-6in4/6in4/projects/)**
 
 ---
 
